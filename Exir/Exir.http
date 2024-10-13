@@ -1,0 +1,13 @@
+﻿@Exir_HostAddress = http://localhost:5173
+
+GET {{Exir_HostAddress}}/api/persons
+
+###
+
+GET {{Exir_HostAddress}}/api/persons
+
+###
+
+GET {{Exir_HostAddress}}/getall
+
+###

@@ -1,0 +1,20 @@
+﻿
+﻿.search-area {
+    border: 1px solid #eaeaea;
+    line-height: 30px;
+    border-radius: 6px 0 0 6px;
+}
+
+.search-btn {
+    background: #3a0647;
+    border: 0;
+    padding: 5px 10px;
+    border-radius: 0px 5px 5px 0;
+    color: white
+}
+
+.search-area :active {
+    border: 1px solid #aeaeae;
+    line-height: 30px;
+    border-radius: 6px 0 0 6px;
+}
